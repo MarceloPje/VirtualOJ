@@ -61,9 +61,10 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:background="#0758E1"
+                android:backgroundTint="#032AF3"
                 android:drawableStart="@drawable/ic_visualizacao_cinza_24"
-                android:text="@string/visualizar" />
+                android:text="@string/visualizar"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/buttonCumprir"
@@ -71,8 +72,10 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
+                android:backgroundTint="#032AF3"
                 android:drawableStart="@drawable/ic_cumprirl_24"
-                android:text="@string/cumprir" />
+                android:text="@string/cumprir"
+                android:textColor="#FFFFFF" />
         </LinearLayout>
     </LinearLayout>
 
