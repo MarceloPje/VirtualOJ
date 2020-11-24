@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CardOj</string>
+    <string name="data_da_intimacao">data da intimacao</string>
+    <string name="enderenco">Enderenço</string>
+    <string name="nome_da_parte">Nome da Parte</string>
+    <string name="numero_do_processo">Numero do processo</string>
+    <string name="prazos">Prazos</string>
+    <string name="cumprir">Cumprir</string>
+    <string name="visualizar">Visualizar</string>
+</resources>
