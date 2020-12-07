@@ -20,7 +20,6 @@ public class PostagemAdapter extends RecyclerView.Adapter<PostagemAdapter.Ojviem
 
         this.expediente = lista_proc;
     }
-
     @NonNull
     @Override
     public OjviemHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
