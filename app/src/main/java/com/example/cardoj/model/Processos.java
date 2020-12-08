@@ -15,7 +15,7 @@ public class Processos {
         this.nome_parte = nome_parte;
         this.enderenco_parte = enderenco_parte;
         this.data_intimacao = data_intimacao;
-        Prazo_intimacao = prazo_intimacao;
+        this.Prazo_intimacao = prazo_intimacao;
     }
 
     public String getNumero_processo() {
